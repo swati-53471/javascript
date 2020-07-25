@@ -1,0 +1,90 @@
+
+
+.page-header{
+    background-color: skyblue;
+
+}
+}
+.fa-graduation-cap{
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 10px;
+}
+.fa-times{
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 2px;
+    float: right;
+}
+#head{
+    margin-left: 60px;
+}
+
+
+
+
+.login-form {
+    width: 340px;
+    margin: 30px auto;
+}
+.login-form form {
+    margin-bottom: 15px;
+    background: white;
+    box-shadow: 0px 2px 2px black;
+    padding: 30px;
+}
+.login-form h2 {
+    margin: 0 0 15px;
+}
+.login-form .hint-text {
+    color: rgb(228, 211, 211);
+    padding-bottom: 15px;
+    text-align: center;
+}
+.form-control, .btn {
+    min-height: 38px;
+    border-radius: 2px;
+}
+.login-btn {        
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 10px;
+    background-color: skyblue;
+}
+.or-seperator {
+    margin: 20px 0 10px;
+    text-align: center;
+    border-top: 1px solid #ccc;
+}
+.or-seperator i {
+    padding: 0 10px;
+    background: #f7f7f7;
+    position: relative;
+    top: -11px;
+    z-index: 1;
+}
+.social-btn .btn {
+    margin: 10px 0;
+    font-size: 15px;
+    text-align: left; 
+    line-height: 24px;
+    border-radius: 10px;       
+}
+.social-btn .btn i {
+    padding-left: 45%;
+    margin: 4px 15px  0 5px;
+    min-width: 15px;
+}
+.input-group-addon .fa{
+    font-size: 18px;
+    background: white;
+    margin-left: 0em;
+}
+
+.btn-logIn{
+    background: yellow;
+    margin-top: 40px;
+    padding-top: 12px;
+    margin-bottom: 50px;
+   
+}
